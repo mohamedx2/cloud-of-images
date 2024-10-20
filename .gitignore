@@ -1,0 +1,30 @@
+# Node.js dependencies
+/node_modules
+
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Environment variables
+.env
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# npm package lock file
+package-lock.json
+yarn.lock
+
+# Coverage directory
+coverage/
+
+# IDE or editor files
+.idea/
+.vscode/
+
+# Optional Docker ignore
+docker-compose.override.yml
